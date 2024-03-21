@@ -1,5 +1,5 @@
 # Snake Game
- Snake using SFML
+ Implementation of Classic Snake game using SFML
 
 Snake game is a classic video game that has been popular for decades. In this game, the player controls a snake that moves around a playing field, eating food while avoiding obstacles. As the snake eats food, its body grows longer, making it harder to maneuver without hitting a wall or the snake's own body.
 
